@@ -66,5 +66,13 @@ Elevate your coffee experience with this picture-perfect scene!
 
 ## About the Authors
 
-<img src="https://avatars.githubusercontent.com/u/156739944?v=4" alt="profile pic" width="150">
+<img src="https://avatars.githubusercontent.com/u/156739944?v=4" alt="profile pic" width="150" style=border-radius:50%>
 
+**Name:** Kieth Lawrence A. Fresnillo
+
+**Email:** klfresnillo@gmail.com
+
+<a href="https://www.facebook.com/Kieth.Fres">
+<img src="Facebook_black.png" alt="profile pic" width="50" style=border-radius:50%></a>
+<a href="https://github.com/kit909">
+<img src="Github_black.png" alt="profile pic" width="50" style=border-radius:50%></a>
