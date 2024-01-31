@@ -66,8 +66,6 @@ Elevate your coffee experience with this picture-perfect scene!
 
 ## About the Authors
 
-![Avatar](https://avatars.githubusercontent.com/u/156739944?v=4)
-
 <style>
 img[src$="#avatar"] {
   display: block;
@@ -75,4 +73,7 @@ img[src$="#avatar"] {
   border-radius: 50%;
   max-width: 150%;
 }
+
+![Avatar](https://avatars.githubusercontent.com/u/156739944?v=4)
+
 </style>
