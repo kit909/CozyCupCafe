@@ -68,9 +68,11 @@ Elevate your coffee experience with this picture-perfect scene!
 
 ![Avatar](https://avatars.githubusercontent.com/u/156739944?v=4)
 
+<style>
 img[src$="#avatar"] {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
   max-width: 150%;
 }
+</style>
