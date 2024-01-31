@@ -64,7 +64,10 @@ Indulge in the simple pleasure of a perfectly brewed cup of coffee!
 
 Elevate your coffee experience with this picture-perfect scene!
 
-## Authors
+## About the Authors
 
-
-
+<style>
+    img {border-radius: 50%;
+    }
+</style>
+<img src="https://avatars.githubusercontent.com/u/156739944?v=4" alt="profile pic" width="150">
