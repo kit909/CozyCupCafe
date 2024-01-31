@@ -1,8 +1,8 @@
-## Project Description
+# Project Description
 
 Cozy Cup Cafe is a haven for those seeking a warm and inviting atmosphere to enjoy delicious coffee, delectable treats, and friendly conversation. More than just a cafe, it aims to be a community hub where people can connect, relax, and recharge.
 
-## Features
+# Features
 
 **Ambiance:**
 
@@ -46,7 +46,7 @@ Cozy Cup Cafe is a haven for those seeking a warm and inviting atmosphere to enj
 * Charging stations for laptops and phones
 * Online ordering and delivery (optional)
 
-## Screen Captures
+# Screen Captures
 
 ![Cup 1](cup1.jpg)
 
@@ -66,5 +66,5 @@ Elevate your coffee experience with this picture-perfect scene!
 
 ## About the Authors
 
-<img src="https://avatars.githubusercontent.com/u/156739944?v=4" alt="profile pic" width="150px">
+<img src="https://avatars.githubusercontent.com/u/156739944?v=4" alt="profile pic" width="150">
 
